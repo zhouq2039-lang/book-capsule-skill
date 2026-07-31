@@ -1,8 +1,21 @@
-# 书摘胶囊
+# 书摘胶囊 | Book Capsule
 
 > 想读一本好书？来一颗书摘胶囊。
 
 一台私人阅读浓缩机。输入一个作家或主题的 JSON 数据，一键生成排版精美的卡片式书摘 HTML 文章。一本书，一张卡，一颗胶囊。纯本地运行，零外部依赖。
+
+## 效果预览
+
+<table>
+  <tr>
+    <td align="center"><img src="images/capsule-demo-1.png" alt="稻盛和夫书摘胶囊" width="280"/></td>
+    <td align="center"><img src="images/capsule-demo-2.png" alt="东野圭吾书摘胶囊" width="280"/></td>
+  </tr>
+  <tr>
+    <td align="center">稻盛和夫 · 经营哲学特辑</td>
+    <td align="center">东野圭吾 · 推理文学特辑</td>
+  </tr>
+</table>
 
 ---
 
